@@ -8,11 +8,17 @@
 
 🚀 Top Projects
 
-<div align="center"><a href="https://github.com/imjunaidahmed/school-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjunaidahmed&repo=school-management-system&theme=tokyonight&hide_border=true" alt="School Management System" />
-</a><a href="https://github.com/imjunaidahmed/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjunaidahmed&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Website" />
-</a></div>
+🏫 School Management System
+
+A web-based system to manage students, timetables, and school activities.
+
+🔗 "Live Demo" () | 💻 "Source Code" ()
+
+🌐 Personal Portfolio Website
+
+A personal portfolio showcasing my skills, projects, and software development journey.
+
+🔗 "Live Demo" () | 💻 "Source Code" ()
 
 🛠️ Languages & Technologies
 
