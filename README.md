@@ -6,6 +6,14 @@
 - 🐍 Also learning Python and working with PHP and MySQL.
 - 🚀 Building projects and improving my development skills every day.
 
+🚀 Top Projects
+
+<div align="center"><a href="https://github.com/imjunaidahmed/school-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjunaidahmed&repo=school-management-system&theme=tokyonight&hide_border=true" alt="School Management System" />
+</a><a href="https://github.com/imjunaidahmed/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imjunaidahmed&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Website" />
+</a></div>
+
 🛠️ Languages & Technologies
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,python,flutter,firebase,git,github,vscode" alt="Languages and technologies" /></div>📊 GitHub Statistics
@@ -22,7 +30,7 @@
 
 📧 Email Address
 
-"jjunaid53697@gmail.com" (mailto:jjunaid53697@gmail.com)
+"jjunaid53697@gmail.com" jjunaid53697@gmail.com
 
 Feel free to contact me for software development, projects, and collaboration.
 
