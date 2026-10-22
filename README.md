@@ -20,6 +20,8 @@ A personal portfolio showcasing my skills, projects, and software development jo
 
 🔗 "Live Demo" () | 💻 "Source Code" ()
 
+
+
 🛠️ Languages & Technologies
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,python,flutter,firebase,git,github,vscode" alt="Languages and technologies" /></div>📊 GitHub Statistics
@@ -36,7 +38,7 @@ A personal portfolio showcasing my skills, projects, and software development jo
 
 📧 Email Address
 
-"jjunaid53697@gmail.com" jjunaid53697@gmail.com
+"jjunaid53697@gmail.com" 
 
 Feel free to contact me for software development, projects, and collaboration.
 
